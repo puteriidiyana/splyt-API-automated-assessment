@@ -29,12 +29,14 @@ npm install
 
 3. Run Tests ✅
    Once installed, you can immediately run the tests with:
-
+```bash
 npm test
+```
 
 For continuous testing (automatically reruns tests when files change):
-
+```bash
 npm run test:watch
+```
 
 ### Prerequisites 🛠️
 
